@@ -7,6 +7,4 @@ Hello Cansin
 
 Hi Cagdas
 
-Hi Eric
-
 Hi Cuneyt
