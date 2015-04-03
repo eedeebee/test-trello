@@ -1,8 +1,6 @@
 
 # Comment
 
-Hello Trello
-
 Hello Github
 
 Hello Cansin
